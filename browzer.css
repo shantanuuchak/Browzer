@@ -1,3 +1,9 @@
 body {
   background: YellowGreen;
+  font-family: sans-serif;
+}
+
+table, td, tr {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
